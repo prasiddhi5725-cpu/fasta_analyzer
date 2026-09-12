@@ -21,7 +21,7 @@ each sequence's results separate.
 
 ## Run it
 ```
-python dna_toolkit.py
+python fasta_analyzer_pipeline.py
 ```
 Then enter the path to a `.fasta` file when prompted (e.g. `test.fasta`
 if using the included sample file). The file should be in the same
